@@ -31,4 +31,3 @@ This indicates that AbstractAction calls SwingPropertyChangeSupport.
 Conclusion
 We hope this dataset and its accompanying documentation will facilitate your research and experimentation. If you have any questions or require further information, please feel free to reach out.
 
-Feel free to adjust any specifics or add additional sections as necessary!¬¬¬¬
